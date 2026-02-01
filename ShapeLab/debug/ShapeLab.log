@@ -1,0 +1,280 @@
+﻿  Generate moc_predefs.h
+   Qt/MSBuild: 3.4.1.0
+  Reading Qt configuration (C:/Qt/Qt5.12.3/5.12.3/msvc2017_64/bin/qmake)
+   Qt: 5.12.3
+  ComputeGeoViaigl.cpp
+  DeformToolPath.cpp
+  IsoLayerGeneration.cpp
+  MainWindow.cpp
+  MainWindowOperation.cpp
+  ScalarField.cpp
+  fileIO.cpp
+  isoSurface.cpp
+  layerSegmentation.cpp
+  main.cpp
+  posiontoolpath.cpp
+  stripe_Pattern.cpp
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\admin\vcpkg\installed\x64-windows\include\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\admin\vcpkg\installed\x64-windows\include\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\admin\vcpkg\installed\x64-windows\include\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\polygons_to_triangles.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\exact_geodesic.cpp(1797,62): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\exact_geodesic.cpp(1797,40): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\exact_geodesic.cpp(3144,16): warning C4244: “初始化”: 从“unsigned __int64”转换到“double”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(163,35): warning C4100: “bVertexNormalShading”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,63): warning C4100: “even_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,39): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(163,35): warning C4100: “bVertexNormalShading”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,63): warning C4100: “even_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,39): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(163,35): warning C4100: “bVertexNormalShading”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,63): warning C4100: “even_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,39): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(163,35): warning C4100: “bVertexNormalShading”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,63): warning C4100: “even_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,39): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(163,35): warning C4100: “bVertexNormalShading”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,63): warning C4100: “even_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,39): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.h(15,14): warning C4091: “typedef ”: 没有声明变量时忽略“mesh_type”的左侧
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKGeometry.h(493,42): warning C4267: “return”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.h(15,14): warning C4091: “typedef ”: 没有声明变量时忽略“mesh_type”的左侧
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(163,35): warning C4100: “bVertexNormalShading”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,63): warning C4100: “even_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,39): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKGeometry.h(493,42): warning C4267: “return”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\fileIO.cpp(25,8): warning C4189: “p”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\fileIO.cpp(20,14): warning C4189: “c”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\fileIO.cpp(63,8): warning C4189: “p”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\fileIO.cpp(57,14): warning C4189: “c”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\isoSurface.cpp(83,97): warning C4100: “support”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\isoSurface.cpp(83,80): warning C4100: “isoSurface”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\fileIO.cpp(122,8): warning C4189: “p”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\fileIO.cpp(117,14): warning C4189: “c”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\isoSurface.cpp(510,45): warning C4100: “isoSurface”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\fileIO.cpp(139,24): warning C4189: “ppl”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\fileIO.cpp(139,40): warning C4189: “ppr”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.h(15,14): warning C4091: “typedef ”: 没有声明变量时忽略“mesh_type”的左侧
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.h(15,14): warning C4091: “typedef ”: 没有声明变量时忽略“mesh_type”的左侧
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\fileIO.cpp(377,56): warning C4100: “scalarvalue”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\fileIO.cpp(377,42): warning C4100: “layer”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(163,35): warning C4100: “bVertexNormalShading”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,63): warning C4100: “even_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,39): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\layerSegmentation.cpp(99,6): warning C4189: “bounaryCount”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\layerSegmentation.cpp(136,70): warning C4100: “includeBoundary”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\layerSegmentation.cpp(136,50): warning C4100: “boundaryIndex”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\layerSegmentation.cpp(136,28): warning C4100: “boundShrinkRatio”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\layerSegmentation.cpp(136,14): warning C4100: “patch”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\layerSegmentation.cpp(244,76): warning C4100: “patch”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(163,35): warning C4100: “bVertexNormalShading”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,63): warning C4100: “even_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,39): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\fileIO.cpp(462,11): warning C4189: “minx”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\fileIO.cpp(738,46): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.h(15,14): warning C4091: “typedef ”: 没有声明变量时忽略“mesh_type”的左侧
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\ScalarField.h(8,37): warning C4100: “support”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(163,35): warning C4100: “bVertexNormalShading”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,63): warning C4100: “even_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,39): warning C4100: “event”: 未引用的形参
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\polygons_to_triangles.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(163,35): warning C4100: “bVertexNormalShading”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,63): warning C4100: “even_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,39): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.h(15,14): warning C4091: “typedef ”: 没有声明变量时忽略“mesh_type”的左侧
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(163,35): warning C4100: “bVertexNormalShading”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,63): warning C4100: “even_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,39): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(163,35): warning C4100: “bVertexNormalShading”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,63): warning C4100: “even_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,39): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.h(15,14): warning C4091: “typedef ”: 没有声明变量时忽略“mesh_type”的左侧
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\polygons_to_triangles.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\exact_geodesic.cpp(1797,62): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\exact_geodesic.cpp(1797,40): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.h(15,14): warning C4091: “typedef ”: 没有声明变量时忽略“mesh_type”的左侧
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\polygons_to_triangles.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(126,9): warning C4189: “findnode”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(185,78): warning C4100: “rot”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(185,68): warning C4100: “freq”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(185,52): warning C4100: “toolpath”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(185,29): warning C4100: “inputMesh”: 未引用的形参
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\polygons_to_triangles.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\exact_geodesic.cpp(1797,62): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\exact_geodesic.cpp(1797,40): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.h(15,14): warning C4091: “typedef ”: 没有声明变量时忽略“mesh_type”的左侧
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\parallel_for.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.h(15,14): warning C4091: “typedef ”: 没有声明变量时忽略“mesh_type”的左侧
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.h(15,14): warning C4091: “typedef ”: 没有声明变量时忽略“mesh_type”的左侧
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\IsoLayerGeneration.cpp(26,89): warning C4100: “isoSurface”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\IsoLayerGeneration.cpp(207,8): warning C4189: “faceIndex”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\IsoLayerGeneration.cpp(701,37): warning C4804: “<”: 在操作中使用类型“bool”不安全
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\exact_geodesic.cpp(1797,62): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\exact_geodesic.cpp(1797,40): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\optional(11): warning STL4038: The contents of <optional> are available only with C++17 or later.
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\IsoLayerGeneration.cpp(817,97): warning C4100: “isoSurface”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\IsoLayerGeneration.cpp(1006,8): warning C4189: “faceIndex”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\IsoLayerGeneration.cpp(1254,10): warning C4189: “layeriso”: 局部变量已初始化但不引用
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\exact_geodesic.cpp(1797,62): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\exact_geodesic.cpp(1797,40): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.h(15,14): warning C4091: “typedef ”: 没有声明变量时忽略“mesh_type”的左侧
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(126,9): warning C4189: “findnode”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(185,78): warning C4100: “rot”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(185,68): warning C4100: “freq”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(185,52): warning C4100: “toolpath”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(185,29): warning C4100: “inputMesh”: 未引用的形参
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\min_quad_with_fixed.impl.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\parallel_for.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\ComputeGeoViaigl.cpp(129,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\ComputeGeoViaigl.cpp(133,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\fileIO.cpp(110,1): warning C4715: “fileIO::inputFixedHandleRegion”: 不是所有的控件路径都返回值
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\parallel_for.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(126,9): warning C4189: “findnode”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(185,78): warning C4100: “rot”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(185,68): warning C4100: “freq”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(185,52): warning C4100: “toolpath”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(185,29): warning C4100: “inputMesh”: 未引用的形参
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\parallel_for.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\IsoLayerGeneration.cpp(1595,58): warning C4100: “bLayer”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\IsoLayerGeneration.cpp(1609,58): warning C4100: “bLayer”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(126,9): warning C4189: “findnode”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(185,78): warning C4100: “rot”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(185,68): warning C4100: “freq”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(185,52): warning C4100: “toolpath”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(185,29): warning C4100: “inputMesh”: 未引用的形参
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\min_quad_with_fixed.impl.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\optional(11): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\min_quad_with_fixed.impl.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\min_quad_with_fixed.impl.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\posiontoolpath.cpp(22,42): warning C4101: “e”: 未引用的局部变量
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\posiontoolpath.cpp(77,42): warning C4101: “e”: 未引用的局部变量
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\posiontoolpath.cpp(89,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\IsoLayerGeneration.cpp(1727,37): warning C4100: “boundaryEdgeNum”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\stripe_Pattern.cpp(107,6): warning C4189: “errorcount”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\ScalarField.h(8,37): warning C4100: “support”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\posiontoolpath.cpp(356,27): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\posiontoolpath.cpp(98,6): warning C4189: “k”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\posiontoolpath.cpp(89,6): warning C4189: “initialsize”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\posiontoolpath.cpp(168,15): warning C4189: “enode”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\posiontoolpath.cpp(167,15): warning C4189: “snode”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\stripe_Pattern.cpp(462,7): warning C4189: “j”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\stripe_Pattern.cpp(461,7): warning C4189: “i”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\stripe_Pattern.cpp(751,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\posiontoolpath.cpp(378,15): warning C4189: “n_f”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\stripe_Pattern.cpp(813,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\stripe_Pattern.cpp(712,7): warning C4189: “idx”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\stripe_Pattern.cpp(854,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\stripe_Pattern.cpp(865,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\exact_geodesic.cpp(780,41): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\exact_geodesic.cpp(780,30): warning C4267: “初始化”: 从“size_t”转换到“const unsigned int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\stripe_Pattern.cpp(832,7): warning C4189: “idx”: 局部变量已初始化但不引用
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\exact_geodesic.cpp(782,40): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\exact_geodesic.cpp(782,27): warning C4267: “初始化”: 从“size_t”转换到“const unsigned int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\stripe_Pattern.cpp(940,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\stripe_Pattern.cpp(983,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKCameraTool.h(9,14): warning C4091: “typedef ”: 没有声明变量时忽略“camera_type”的左侧
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\InteractiveTool.h(7,14): warning C4091: “typedef ”: 没有声明变量时忽略“select_type”的左侧
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKGeometry.h(12,9): warning C4005: “DEGREE_TO_ROTATE”: 宏重定义
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKGeometry.h(13,9): warning C4005: “ROTATE_TO_DEGREE”: 宏重定义
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKGeometry.h(493,42): warning C4267: “return”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\tetgen.h(2348,41): warning C4100: “m”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\MainWindow.cpp(254,8): warning C4189: “p”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\MainWindow.cpp(249,15): warning C4189: “c”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\MainWindow.cpp(303,8): warning C4189: “p”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\MainWindow.cpp(297,15): warning C4189: “c”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\MainWindow.cpp(408,46): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\MainWindow.cpp(615,10): warning C4189: “changed”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.cpp(125,8): warning C4189: “nodeI”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.cpp(330,18): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.cpp(428,33): warning C4101: “e”: 未引用的局部变量
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.cpp(1147,11): warning C4189: “dis”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.cpp(1148,11): warning C4189: “distoin”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.cpp(1301,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.cpp(1294,6): warning C4189: “i”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.cpp(1419,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.cpp(1447,82): warning C4100: “boundnum”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.cpp(1612,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.cpp(1629,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.cpp(1635,40): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.cpp(1765,16): warning C4189: “enode”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.cpp(1764,16): warning C4189: “snode”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.cpp(2568,12): warning C4101: “nx”: 未引用的局部变量
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.cpp(2568,16): warning C4101: “ny”: 未引用的局部变量
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.cpp(2568,20): warning C4101: “nz”: 未引用的局部变量
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\xutility(388,61): warning C4267: “初始化”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\xutility(388,61): warning C4267:         with
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\xutility(388,61): warning C4267:         [
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\xutility(388,61): warning C4267:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\xutility(388,61): warning C4267:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\xmemory(700,82): warning C4267: “初始化”: 从“size_t”转换到“_Objty”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\xmemory(700,82): warning C4267:         with
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\xmemory(700,82): warning C4267:         [
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\xmemory(700,82): warning C4267:             _Objty=int
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\xmemory(700,82): warning C4267:         ]
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\posiontoolpath.cpp(130,1): warning C4700: 使用了未初始化的局部变量“faceareasum”
+  qrc_ShapeLab.cpp
+  moc_MainWindow.cpp
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(163,35): warning C4100: “bVertexNormalShading”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,63): warning C4100: “even_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,39): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.h(15,14): warning C4091: “typedef ”: 没有声明变量时忽略“mesh_type”的左侧
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\polygons_to_triangles.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\exact_geodesic.cpp(1797,62): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\exact_geodesic.cpp(1797,40): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(126,9): warning C4189: “findnode”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(185,78): warning C4100: “rot”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(185,68): warning C4100: “freq”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(185,52): warning C4100: “toolpath”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ShapeLab\DeformToolPath.h(185,29): warning C4100: “inputMesh”: 未引用的形参
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\parallel_for.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\admin\vcpkg\installed\x64-windows\include\igl\min_quad_with_fixed.impl.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+GLKLib.lib(GLKObList.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(ComputeGeoViaigl.obj 中)
+GLKLib.lib(GLKObList.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(ComputeGeoViaigl.obj 中)
+GLKLib.lib(GLKLib.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(ComputeGeoViaigl.obj 中)
+GLKLib.lib(GLKLib.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(ComputeGeoViaigl.obj 中)
+GLKLib.lib(InteractiveTool.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(ComputeGeoViaigl.obj 中)
+GLKLib.lib(InteractiveTool.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(ComputeGeoViaigl.obj 中)
+GLKLib.lib(GLKGeometry.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(ComputeGeoViaigl.obj 中)
+GLKLib.lib(GLKGeometry.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(ComputeGeoViaigl.obj 中)
+GLKLib.lib(moc_GLKLib.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(ComputeGeoViaigl.obj 中)
+GLKLib.lib(moc_GLKLib.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MT_StaticRelease”(ComputeGeoViaigl.obj 中)
+LINK : warning LNK4098: 默认库“LIBCMTD”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+GLKLib.lib(GLKGeometry.obj) : error LNK2019: 无法解析的外部符号 _CrtDbgReport，函数 "void * __cdecl std::_Allocate_manually_vector_aligned<struct std::_Default_allocate_traits>(unsigned __int64)" (??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPEAX_K@Z) 中引用了该符号
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\glut\glut32.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+debug\\ShapeLab.exe : fatal error LNK1120: 1 个无法解析的外部命令

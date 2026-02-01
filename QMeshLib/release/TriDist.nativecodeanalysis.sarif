@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33523.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///e:/cuhk_sunhailin/crml/meetingwithfang/spatialfibertoolpathgenerator-main/spatialfibertoolpathgenerator-main/thirdpartydependence/pqplib/tridist.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "eedbee4e153f344a1eaa957c6e5ef6e90163c6f3cebfa96e24c3191272628614"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///e:/cuhk_sunhailin/crml/meetingwithfang/spatialfibertoolpathgenerator-main/spatialfibertoolpathgenerator-main/thirdpartydependence/pqplib/matvec.h"
+          },
+          "hashes": {
+            "sha-256": "663d692bab69d9be7bef8b9dfc8fc43ae8e96b3bd10eb44e8136db2f33f6424a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///e:/cuhk_sunhailin/crml/meetingwithfang/spatialfibertoolpathgenerator-main/spatialfibertoolpathgenerator-main/thirdpartydependence/pqplib/pqp_compile.h"
+          },
+          "hashes": {
+            "sha-256": "72b1103599288754cb2958a45a61eed7a34e3458c5736be33dd9d56dd0039ac9"
+          }
+        }
+      ]
+    }
+  ]
+}

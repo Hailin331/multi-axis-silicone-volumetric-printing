@@ -1,0 +1,850 @@
+<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" FontFamily="Segoe UI" FontSize="12">
+  <FlowDocument.Tag><![CDATA[{
+  "timestamp": "2026-02-01 14:56:03",
+  "files": {
+    "D:\\File\\CUHK\\LAB\\TTA\\TTA\\multi-axis-silicone-volumetric-printing-main\\multi-axis-silicone-volumetric-printing-main\\QMeshLib\\QMeshLib.vcxproj": {
+      "before": "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",
+      "after": "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"
+    },
+    "D:\\File\\CUHK\\LAB\\TTA\\TTA\\multi-axis-silicone-volumetric-printing-main\\multi-axis-silicone-volumetric-printing-main\\QMeshLib\\QMeshLib.vcxproj.user": {
+      "before": "rZHLasMwEEXTbb5CiICTRS33QSnFchYpdNNF0oTubXn8KJLGSKOQQr6131LZkF2WWc6dy5wD83c3m+Xrk9HsCM73aCV/SDPOwCqse9tKHqi5f+XrYp5vHf6AInZA1P77Ut8E58ASZ/GI9ZJ3RMObEF51YEqfml459NhQqtCIGo6gcQAnjK9Cr2vxmGVPvJgzNp6PC/r9cBgGJq5kn2UFWvId7YEoynnONmjrnibvZLGMU9O3wZVjsjovlltdUoPOrBIpk3eoQns+vTwnEzAid3TAoLoLeUTGVFyJc3EpTXq3l/sCDaWHW+lNvuO3in8=",
+      "after": "tZHNSsNAFIXrVvAdhqGQdmEm/iAimXRRwY2LVov7ZHKTjMzkhpk7pUJf1XdxEulGXOrynns454PzeTab5auDNWwPzmvsJb9KM86gV1jrvpU8UHN5z1fFxXm+cfgOitgO0fi3k38dnIOeOIspvZe8IxoehPCqA1v61Grl0GNDqUIratiDwQGcsL4K2tTiOstueExnbMyPH/p4chgGJn4Tn8sKjORbegWiyOc5W2Nfa5rQk/kiXo1ugytHZXmcLzampAadXSZSJo9QhfZ4uLtNvitj6ZZ2GFR36i5y8VOZ2MTJMMH9A9oLGCg9/A1cPuKOWxVf"
+    }
+  }
+}]]></FlowDocument.Tag>
+  <Section Margin="0,24" TextAlignment="Center">
+    <Paragraph FontSize="24" FontWeight="Bold" Margin="12,0">
+      <LineBreak />
+      <Span Foreground="Gray">Qt Visual Studio Tools</Span>
+    </Paragraph>
+    <Paragraph FontSize="42" Margin="12,0" FontWeight="Bold">
+      <Span TextDecorations="Underline">Project Format Conversion</Span>
+    </Paragraph>
+    <Paragraph Margin="12,8" FontSize="18">
+      <Span>Report generated on 2026-02-01 14:56:03</Span>
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Files</Span>
+    </Paragraph>
+    <Paragraph Margin="24,12,0,0">
+      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj]]></Span>
+      <LineBreak />
+      <Hyperlink NavigateUri="file://D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj?before">[Before]</Hyperlink>
+      <Hyperlink NavigateUri="file://D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj?after">[After]</Hyperlink>
+      <Hyperlink NavigateUri="file://D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj?diff&amp;before&amp;after">
+                        [Diff before/after]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj?diff&amp;before&amp;current">
+                        [Diff before/current]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj?diff&amp;after&amp;current">
+                        [Diff after/current]
+                    </Hyperlink>
+      <LineBreak />
+    </Paragraph>
+    <Paragraph Margin="24,12,0,0">
+      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj.user]]></Span>
+      <LineBreak />
+      <Hyperlink NavigateUri="file://D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj.user?before">[Before]</Hyperlink>
+      <Hyperlink NavigateUri="file://D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj.user?after">[After]</Hyperlink>
+      <Hyperlink NavigateUri="file://D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj.user?diff&amp;before&amp;after">
+                        [Diff before/after]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj.user?diff&amp;before&amp;current">
+                        [Diff before/current]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj.user?diff&amp;after&amp;current">
+                        [Diff after/current]
+                    </Hyperlink>
+      <LineBreak />
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Changes</Span>
+    </Paragraph>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Replacing paths with "$(QTDIR)"]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\ShapeLab;]]></Span><Span Background="LightCoral"><![CDATA[C:\Qt\Qt5.12.3\5.12.3\msvc2017_64\include]]></Span><Span><![CDATA[;]]></Span><Span Background="LightCoral"><![CDATA[C:\Qt\Qt5.12.3\5.12.3\msvc2017_64\include\QtOpenGL]]></Span><Span><![CDATA[;]]></Span><Span Background="LightCoral"><![CDATA[C:\Qt\Qt5.12.3\5.12.3\msvc2017_64\include\QtWidgets]]></Span><Span><![CDATA[;]]></Span><Span Background="LightCoral"><![CDATA[C:\Qt\Qt5.12.3\5.12.3\msvc2017_64\include\QtGui]]></Span><Span><![CDATA[;]]></Span><Span Background="LightCoral"><![CDATA[C:\Qt\Qt5.12.3\5.12.3\msvc2017_64\include\QtANGLE]]></Span><Span><![CDATA[;]]></Span><Span Background="LightCoral"><![CDATA[C:\Qt\Qt5.12.3\5.12.3\msvc2017_64\include\QtCore]]></Span><Span><![CDATA[;D:/File/CUHK/LAB/TTA/TTA/multi-axis-silicone-volumetric-printing-main/multi-axis-silicone-volumetric-printing-main/QMeshLib/GeneratedFiles/$(ConfigurationName);C:\VulkanSDK\1.0.51.0\include;]]></Span><Span Background="LightCoral"><![CDATA[C:\Qt\Qt5.12.3\5.12.3\msvc2017_64\mkspecs\win32-msvc]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\ShapeLab;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\include]]></Span><Span><![CDATA[;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\include\QtOpenGL]]></Span><Span><![CDATA[;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\include\QtWidgets]]></Span><Span><![CDATA[;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\include\QtGui]]></Span><Span><![CDATA[;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\include\QtANGLE]]></Span><Span><![CDATA[;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\include\QtCore]]></Span><Span><![CDATA[;D:/File/CUHK/LAB/TTA/TTA/multi-axis-silicone-volumetric-printing-main/multi-axis-silicone-volumetric-printing-main/QMeshLib/GeneratedFiles/$(ConfigurationName);C:\VulkanSDK\1.0.51.0\include;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\mkspecs\win32-msvc]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\ShapeLab;]]></Span><Span Background="LightCoral"><![CDATA[C:\Qt\Qt5.12.3\5.12.3\msvc2017_64\include]]></Span><Span><![CDATA[;]]></Span><Span Background="LightCoral"><![CDATA[C:\Qt\Qt5.12.3\5.12.3\msvc2017_64\include\QtOpenGL]]></Span><Span><![CDATA[;]]></Span><Span Background="LightCoral"><![CDATA[C:\Qt\Qt5.12.3\5.12.3\msvc2017_64\include\QtWidgets]]></Span><Span><![CDATA[;]]></Span><Span Background="LightCoral"><![CDATA[C:\Qt\Qt5.12.3\5.12.3\msvc2017_64\include\QtGui]]></Span><Span><![CDATA[;]]></Span><Span Background="LightCoral"><![CDATA[C:\Qt\Qt5.12.3\5.12.3\msvc2017_64\include\QtANGLE]]></Span><Span><![CDATA[;]]></Span><Span Background="LightCoral"><![CDATA[C:\Qt\Qt5.12.3\5.12.3\msvc2017_64\include\QtCore]]></Span><Span><![CDATA[;D:/File/CUHK/LAB/TTA/TTA/multi-axis-silicone-volumetric-printing-main/multi-axis-silicone-volumetric-printing-main/QMeshLib/GeneratedFiles/$(ConfigurationName);C:\VulkanSDK\1.0.51.0\include;]]></Span><Span Background="LightCoral"><![CDATA[C:\Qt\Qt5.12.3\5.12.3\msvc2017_64\mkspecs\win32-msvc]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\ShapeLab;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\include]]></Span><Span><![CDATA[;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\include\QtOpenGL]]></Span><Span><![CDATA[;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\include\QtWidgets]]></Span><Span><![CDATA[;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\include\QtGui]]></Span><Span><![CDATA[;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\include\QtANGLE]]></Span><Span><![CDATA[;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\include\QtCore]]></Span><Span><![CDATA[;D:/File/CUHK/LAB/TTA/TTA/multi-axis-silicone-volumetric-printing-main/multi-axis-silicone-volumetric-printing-main/QMeshLib/GeneratedFiles/$(ConfigurationName);C:\VulkanSDK\1.0.51.0\include;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\mkspecs\win32-msvc]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|x64'">C:\Qt\Qt5.12.3\5.12.3\msvc2017_64\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|x64'">$(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -Zi -MDd -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E ]]></Span><Span Background="LightCoral"><![CDATA[C:\Qt\Qt5.12.3\5.12.3\msvc2017_64\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;GeneratedFiles\moc_predefs.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -Zi -MDd -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E ]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;GeneratedFiles\moc_predefs.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|x64'">C:\Qt\Qt5.12.3\5.12.3\msvc2017_64\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|x64'">$(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -O2 -MD -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E ]]></Span><Span Background="LightCoral"><![CDATA[C:\Qt\Qt5.12.3\5.12.3\msvc2017_64\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;GeneratedFiles\moc_predefs.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -O2 -MD -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E ]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;GeneratedFiles\moc_predefs.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Replacing paths with "."]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\ShapeLab;$(QTDIR)\include;$(QTDIR)\include\QtOpenGL;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtCore]]></Span><Span Background="LightCoral"><![CDATA[;D:/File/CUHK/LAB/TTA/TTA/multi-axis-silicone-volumetric-printing-main/multi-axis-silicone-volumetric-printing-main/QMeshLib/GeneratedFiles/$]]></Span><Span><![CDATA[(ConfigurationName);C:\VulkanSDK\1.0.51.0\include;$(QTDIR)\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\ShapeLab;$(QTDIR)\include;$(QTDIR)\include\QtOpenGL;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtCore]]></Span><Span Background="LightGreen"><![CDATA[;./GeneratedFiles/$]]></Span><Span><![CDATA[(ConfigurationName);C:\VulkanSDK\1.0.51.0\include;$(QTDIR)\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\ShapeLab;$(QTDIR)\include;$(QTDIR)\include\QtOpenGL;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtCore]]></Span><Span Background="LightCoral"><![CDATA[;D:/File/CUHK/LAB/TTA/TTA/multi-axis-silicone-volumetric-printing-main/multi-axis-silicone-volumetric-printing-main/QMeshLib/GeneratedFiles/$]]></Span><Span><![CDATA[(ConfigurationName);C:\VulkanSDK\1.0.51.0\include;$(QTDIR)\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\ShapeLab;$(QTDIR)\include;$(QTDIR)\include\QtOpenGL;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtCore]]></Span><Span Background="LightGreen"><![CDATA[;./GeneratedFiles/$]]></Span><Span><![CDATA[(ConfigurationName);C:\VulkanSDK\1.0.51.0\include;$(QTDIR)\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Converting custom build steps to Qt/MSBuild items]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalIncludeDirectories>.;..]]></Span><Span><![CDATA[\ThirdPartyDependence\glut;..\ShapeLab;$(QTDIR)\include;$(QTDIR)\include\QtOpenGL;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtCore;./GeneratedFiles/$(ConfigurationName);C:\VulkanSDK\1.0.51.0\include;$(QTDIR)\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightGreen"><![CDATA[<AdditionalIncludeDirectories>GeneratedFiles\$(ConfigurationName);GeneratedFiles;.;..]]></Span><Span><![CDATA[\ThirdPartyDependence\glut;..\ShapeLab;$(QTDIR)\include;$(QTDIR)\include\QtOpenGL;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtCore;./GeneratedFiles/$(ConfigurationName);C:\VulkanSDK\1.0.51.0\include;$(QTDIR)\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalIncludeDirectories>.;..]]></Span><Span><![CDATA[\ThirdPartyDependence\glut;..\ShapeLab;$(QTDIR)\include;$(QTDIR)\include\QtOpenGL;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtCore;./GeneratedFiles/$(ConfigurationName);C:\VulkanSDK\1.0.51.0\include;$(QTDIR)\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightGreen"><![CDATA[<AdditionalIncludeDirectories>GeneratedFiles\$(ConfigurationName);GeneratedFiles;.;..]]></Span><Span><![CDATA[\ThirdPartyDependence\glut;..\ShapeLab;$(QTDIR)\include;$(QTDIR)\include\QtOpenGL;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtCore;./GeneratedFiles/$(ConfigurationName);C:\VulkanSDK\1.0.51.0\include;$(QTDIR)\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Enabling multi-processor compilation]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Project format version]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightCoral"><![CDATA[<Keyword>Qt4VSv1.0</Keyword>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<Keyword>QtVS_v304</Keyword>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Fallback for QTMSBUILD environment variable]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtMsBuild Condition="'$(QtMsBuild)'=='' OR !Exists('$(QtMsBuild)\qt.targets')">$(MSBuildProjectDirectory)\QtMsBuild</QtMsBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Default Qt properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt_defaults.props" Condition="Exists('$(QtMsBuild)\qt_defaults.props')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt build settings]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Warn if Qt/MSBuild is not found]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Target Name="QtMsBuildNotFound" BeforeTargets="CustomBuild;ClCompile" Condition="!Exists('$(QtMsBuild)\qt.targets') OR !Exists('$(QtMsBuild)\Qt.props')">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Message Importance="High" Text="QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly." />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  </Target>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt property sheet]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt targets]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt.targets" Condition="Exists('$(QtMsBuild)\qt.targets')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Copying Qt build reference to QtInstall project property]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|x64'">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[  ]]></Span><Span Background="LightCoral"><![CDATA[<PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtInstall>5.12.3_msvc2017_64</QtInstall>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  </PropertyGroup>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtInstall>5.12.3_msvc2017_64</QtInstall>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  </PropertyGroup>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Removing Qt module macros from compiler properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;]]></Span><Span Background="LightCoral"><![CDATA[QT_OPENGL_LIB;QT_WIDGETS_LIB;QT_GUI_LIB;QT_CORE_LIB;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;QT_NO_DEBUG;]]></Span><Span Background="LightCoral"><![CDATA[QT_OPENGL_LIB;QT_WIDGETS_LIB;QT_GUI_LIB;QT_CORE_LIB;]]></Span><Span><![CDATA[NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;QT_NO_DEBUG;]]></Span><Span><![CDATA[NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Removing Qt module include paths from compiler properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>GeneratedFiles\$(ConfigurationName);GeneratedFiles;.;..\ThirdPartyDependence\glut;..\ShapeLab]]></Span><Span Background="LightCoral"><![CDATA[;$(QTDIR)\include;$(QTDIR)\include\QtOpenGL;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtCore]]></Span><Span><![CDATA[;./GeneratedFiles/$(ConfigurationName);C:\VulkanSDK\1.0.51.0\include]]></Span><Span Background="LightCoral"><![CDATA[;$(QTDIR)\mkspecs\win32-msvc]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>GeneratedFiles\$(ConfigurationName);GeneratedFiles;.;..\ThirdPartyDependence\glut;..\ShapeLab]]></Span><Span><![CDATA[;./GeneratedFiles/$(ConfigurationName);C:\VulkanSDK\1.0.51.0\include]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>GeneratedFiles\$(ConfigurationName);GeneratedFiles;.;..\ThirdPartyDependence\glut;..\ShapeLab]]></Span><Span Background="LightCoral"><![CDATA[;$(QTDIR)\include;$(QTDIR)\include\QtOpenGL;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtANGLE;$(QTDIR)\include\QtCore]]></Span><Span><![CDATA[;./GeneratedFiles/$(ConfigurationName);C:\VulkanSDK\1.0.51.0\include]]></Span><Span Background="LightCoral"><![CDATA[;$(QTDIR)\mkspecs\win32-msvc]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>GeneratedFiles\$(ConfigurationName);GeneratedFiles;.;..\ThirdPartyDependence\glut;..\ShapeLab]]></Span><Span><![CDATA[;./GeneratedFiles/$(ConfigurationName);C:\VulkanSDK\1.0.51.0\include]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Removing Qt module macros from resource compiler properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;]]></Span><Span Background="LightCoral"><![CDATA[QT_OPENGL_LIB;QT_WIDGETS_LIB;QT_GUI_LIB;QT_CORE_LIB;]]></Span><Span><![CDATA[_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;]]></Span><Span><![CDATA[_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;QT_NO_DEBUG;]]></Span><Span Background="LightCoral"><![CDATA[QT_OPENGL_LIB;QT_WIDGETS_LIB;QT_GUI_LIB;QT_CORE_LIB;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;QT_NO_DEBUG;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Adding Qt module names to QtModules project property]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtModules>core;opengl;gui;widgets</QtModules>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtModules>core;opengl;gui;widgets</QtModules>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+  </Section>
+  <Section>
+    <Paragraph />
+  </Section>
+</FlowDocument>
+<!--4VkizjJqcTtho6SflPvOHN0Fvno+SoxO+T9+tk6fDgU=-->

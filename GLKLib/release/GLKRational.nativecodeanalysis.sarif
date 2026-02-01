@@ -1,0 +1,43 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33523.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///e:/cuhk_sunhailin/crml/meetingwithfang/spatialfibertoolpathgenerator-main/spatialfibertoolpathgenerator-main/glklib/glkrational.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "29ac8a561a896b70d1b30502ecb3451429e961afb11f2bad028a349f190ec565"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///e:/cuhk_sunhailin/crml/meetingwithfang/spatialfibertoolpathgenerator-main/spatialfibertoolpathgenerator-main/glklib/glkrational.h"
+          },
+          "hashes": {
+            "sha-256": "822af9014552a03f3c6ab29d7c0b6c7eaaf254e3c1bae1714e81c6e0d846de73"
+          }
+        }
+      ]
+    }
+  ]
+}

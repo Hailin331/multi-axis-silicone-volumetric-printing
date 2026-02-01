@@ -1,0 +1,256 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C6328",
+          "message": {
+            "text": "大小不匹配: 已将“unsigned __int64”作为 _Param_(4) 传递，但需要使用“int”来调用“fprintf”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///E:/CUHK_SUNHailin/CRML/meetingwithfang/SpatialFiberToolpathGenerator-main/SpatialFiberToolpathGenerator-main/ThirdPartyDependence/PQPLib/PQP.cpp"
+                },
+                "region": {
+                  "startLine": 279,
+                  "startColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "PQP_Model::MemUsage",
+                  "decoratedName": "?MemUsage@PQP_Model@@QEAAHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6328",
+          "message": {
+            "text": "大小不匹配: 已将“unsigned __int64”作为 _Param_(4) 传递，但需要使用“int”来调用“fprintf”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///E:/CUHK_SUNHailin/CRML/meetingwithfang/SpatialFiberToolpathGenerator-main/SpatialFiberToolpathGenerator-main/ThirdPartyDependence/PQPLib/PQP.cpp"
+                },
+                "region": {
+                  "startLine": 281,
+                  "startColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "PQP_Model::MemUsage",
+                  "decoratedName": "?MemUsage@PQP_Model@@QEAAHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 PQP_CollideResult::T。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///E:/CUHK_SUNHailin/CRML/meetingwithfang/SpatialFiberToolpathGenerator-main/SpatialFiberToolpathGenerator-main/ThirdPartyDependence/PQPLib/PQP.cpp"
+                },
+                "region": {
+                  "startLine": 292,
+                  "startColumn": 20
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "PQP_CollideResult::{ctor}",
+                  "decoratedName": "??0PQP_CollideResult@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "PQP_CollideResult::T"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 PQP_CollideResult::R。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///E:/CUHK_SUNHailin/CRML/meetingwithfang/SpatialFiberToolpathGenerator-main/SpatialFiberToolpathGenerator-main/ThirdPartyDependence/PQPLib/PQP.cpp"
+                },
+                "region": {
+                  "startLine": 292,
+                  "startColumn": 20
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "PQP_CollideResult::{ctor}",
+                  "decoratedName": "??0PQP_CollideResult@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "PQP_CollideResult::R"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 PQP_CollideResult::query_time_secs。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///E:/CUHK_SUNHailin/CRML/meetingwithfang/SpatialFiberToolpathGenerator-main/SpatialFiberToolpathGenerator-main/ThirdPartyDependence/PQPLib/PQP.cpp"
+                },
+                "region": {
+                  "startLine": 292,
+                  "startColumn": 20
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "PQP_CollideResult::{ctor}",
+                  "decoratedName": "??0PQP_CollideResult@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "PQP_CollideResult::query_time_secs"
+          }
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33523.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///E:/CUHK_SUNHailin/CRML/meetingwithfang/SpatialFiberToolpathGenerator-main/SpatialFiberToolpathGenerator-main/ThirdPartyDependence/PQPLib/PQP.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "79907135bf3a67b2d9812308ed62eac710b2bce0bd7b3885541bfc316b83ae9b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///e:/cuhk_sunhailin/crml/meetingwithfang/spatialfibertoolpathgenerator-main/spatialfibertoolpathgenerator-main/thirdpartydependence/pqplib/pqp.h"
+          },
+          "hashes": {
+            "sha-256": "2336f950c9f48c6b033097c0520677e2e50db636aa89d0c40b3d9c56b1cb387f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///e:/cuhk_sunhailin/crml/meetingwithfang/spatialfibertoolpathgenerator-main/spatialfibertoolpathgenerator-main/thirdpartydependence/pqplib/pqp_compile.h"
+          },
+          "hashes": {
+            "sha-256": "72b1103599288754cb2958a45a61eed7a34e3458c5736be33dd9d56dd0039ac9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///e:/cuhk_sunhailin/crml/meetingwithfang/spatialfibertoolpathgenerator-main/spatialfibertoolpathgenerator-main/thirdpartydependence/pqplib/pqp_internal.h"
+          },
+          "hashes": {
+            "sha-256": "595e4708ecc488c57e289a28692a76deb818d54ff8e49d7c5e7fafc002cacb1b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///e:/cuhk_sunhailin/crml/meetingwithfang/spatialfibertoolpathgenerator-main/spatialfibertoolpathgenerator-main/thirdpartydependence/pqplib/tri.h"
+          },
+          "hashes": {
+            "sha-256": "22c0ee0af7e70fba0df62e52fe3c88b04e03b7a33064d04b8169200e1e338c5b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///e:/cuhk_sunhailin/crml/meetingwithfang/spatialfibertoolpathgenerator-main/spatialfibertoolpathgenerator-main/thirdpartydependence/pqplib/bv.h"
+          },
+          "hashes": {
+            "sha-256": "c7b242ba48c4968fb6082ae2df437c3ea1ee44cf6f24e9c1470f830ec1b34934"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///e:/cuhk_sunhailin/crml/meetingwithfang/spatialfibertoolpathgenerator-main/spatialfibertoolpathgenerator-main/thirdpartydependence/pqplib/bvtq.h"
+          },
+          "hashes": {
+            "sha-256": "e38bd27a5dcb183471bd838e7905281443f0ddadebfeb9d1e54adcaea341f68a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///e:/cuhk_sunhailin/crml/meetingwithfang/spatialfibertoolpathgenerator-main/spatialfibertoolpathgenerator-main/thirdpartydependence/pqplib/build.h"
+          },
+          "hashes": {
+            "sha-256": "087080137d3ce5ab139b8fd4c21f23deac63801fa58e3e1120ed8edda48a1896"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///e:/cuhk_sunhailin/crml/meetingwithfang/spatialfibertoolpathgenerator-main/spatialfibertoolpathgenerator-main/thirdpartydependence/pqplib/matvec.h"
+          },
+          "hashes": {
+            "sha-256": "663d692bab69d9be7bef8b9dfc8fc43ae8e96b3bd10eb44e8136db2f33f6424a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///e:/cuhk_sunhailin/crml/meetingwithfang/spatialfibertoolpathgenerator-main/spatialfibertoolpathgenerator-main/thirdpartydependence/pqplib/gettime.h"
+          },
+          "hashes": {
+            "sha-256": "f7211cfe0aad524e6237c7be343ccebfd5a65686f1d951031a6beaf1726783f7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///e:/cuhk_sunhailin/crml/meetingwithfang/spatialfibertoolpathgenerator-main/spatialfibertoolpathgenerator-main/thirdpartydependence/pqplib/tridist.h"
+          },
+          "hashes": {
+            "sha-256": "20e61f7c936fdb1e2c1bb754a5fde9b4ad1662279b7718c7f4d815a17a554691"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+﻿  Generate moc_predefs.h
+   Qt/MSBuild: 3.4.1.0
+  Reading Qt configuration (C:/Qt/Qt5.12.3/5.12.3/msvc2017_64/bin/qmake)
+   Qt: 5.12.3
+  GLKGeometry.cpp
+  GLKGraph.cpp
+  GLKHeap.cpp
+  GLKLib.cpp
+  GLKMatrixLib.cpp
+  GLKNearestNeighbor.cpp
+  GLKObList.cpp
+  GLKRational.cpp
+  GLKSparseMatrix.cpp
+  GLKSparseMatrixDirectSolver.cpp
+  GLKSparseMatrixIterativeSolver.cpp
+  InteractiveTool.cpp
+  stdafx.cpp
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKMatrixLib.cpp(138,59): warning C4100: “col”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKMatrixLib.cpp(161,57): warning C4100: “col”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKMatrixLib.cpp(293,55): warning C4100: “col”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKMatrixLib.cpp(305,46): warning C4100: “row”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKGraph.cpp(64,9): warning C4189: “maxFlow”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKGraph.cpp(68,17): warning C4189: “node”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKGraph.cpp(112,82): warning C4100: “targetNode”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKSparseMatrixIterativeSolver.cpp(78,57): warning C4100: “nmax”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKSparseMatrixIterativeSolver.cpp(362,120): warning C4100: “itrnsp”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKSparseMatrixIterativeSolver.cpp(362,72): warning C4100: “ija”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(163,35): warning C4100: “bVertexNormalShading”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,63): warning C4100: “even_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,39): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(163,35): warning C4100: “bVertexNormalShading”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,63): warning C4100: “even_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,39): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKGeometry.h(493,42): warning C4267: “return”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKCameraTool.h(9,14): warning C4091: “typedef ”: 没有声明变量时忽略“camera_type”的左侧
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(163,35): warning C4100: “bVertexNormalShading”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,63): warning C4100: “even_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,39): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\InteractiveTool.h(7,14): warning C4091: “typedef ”: 没有声明变量时忽略“select_type”的左侧
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\InteractiveTool.h(7,14): warning C4091: “typedef ”: 没有声明变量时忽略“select_type”的左侧
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.h(15,14): warning C4091: “typedef ”: 没有声明变量时忽略“mesh_type”的左侧
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKGeometry.h(493,42): warning C4267: “return”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.h(15,14): warning C4091: “typedef ”: 没有声明变量时忽略“mesh_type”的左侧
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKGeometry.h(493,42): warning C4267: “return”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKCameraTool.h(9,14): warning C4091: “typedef ”: 没有声明变量时忽略“camera_type”的左侧
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\InteractiveTool.cpp(140,68): warning C4100: “event_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\InteractiveTool.cpp(140,44): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\InteractiveTool.cpp(185,68): warning C4100: “event_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\InteractiveTool.cpp(185,44): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\InteractiveTool.cpp(233,68): warning C4100: “event_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\InteractiveTool.cpp(233,44): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.cpp(198,20): warning C4189: “oldRange”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\InteractiveTool.cpp(282,68): warning C4100: “event_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\InteractiveTool.cpp(282,44): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.cpp(228,12): warning C4189: “f”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.cpp(398,52): warning C4100: “bRefresh”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.cpp(401,11): warning C4189: “oldRange”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\InteractiveTool.cpp(405,69): warning C4100: “event_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\InteractiveTool.cpp(405,45): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\InteractiveTool.cpp(652,9): warning C4189: “selectNum”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.cpp(676,38): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.cpp(720,69): warning C4100: “bFill”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.cpp(873,9): warning C4189: “index”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.cpp(881,13): warning C4189: “in”: 局部变量已初始化但不引用
+  moc_GLKLib.cpp
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(163,35): warning C4100: “bVertexNormalShading”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,63): warning C4100: “even_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,39): warning C4100: “event”: 未引用的形参
+  GLKLib.vcxproj -> D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\release\GLKLib.lib

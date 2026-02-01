@@ -1,0 +1,153 @@
+﻿  Generate moc_predefs.h
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(254,5): warning MSB8064: 项“GeneratedFiles\moc_predefs.h.cbt”的自定义生成成功，但指定的依赖项“d:\file\cuhk\lab\tta\tta\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\qmeshlib\generatedfiles\moc_predefs.h.cbt”不存在。这可能会导致增量生成无法正常工作。
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(254,5): warning MSB8065: 项“GeneratedFiles\moc_predefs.h.cbt”的自定义生成成功，但尚未创建指定的输出“d:\file\cuhk\lab\tta\tta\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\qmeshlib\generatedfiles\debug\moc_predefs.h”。这可能会导致增量生成无法正常工作。
+   Qt/MSBuild: 3.4.1.0
+  Reading Qt configuration (C:/Qt/Qt5.12.3/5.12.3/msvc2017_64/bin/qmake)
+   Qt: 5.12.3
+  BV.cpp
+  Build.cpp
+  PQP.cpp
+  PolygenMesh.cpp
+  QMeshCluster.cpp
+  QMeshEdge.cpp
+  QMeshFace.cpp
+  QMeshNode.cpp
+  QMeshPatch.cpp
+  QMeshTetra.cpp
+  TriDist.cpp
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\PQPLib\BV.cpp(566,68): warning C4100: “p”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\PQPLib\TriDist.cpp(439,8): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\PQPLib\TriDist.cpp(476,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\PQPLib\TriDist.cpp(476,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\PQPLib\TriDist.cpp(476,59): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\PQPLib\TriDist.cpp(497,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\PQPLib\TriDist.cpp(498,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\PQPLib\TriDist.cpp(499,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\PQPLib\GetTime.h(44,9): warning C4005: “WIN32”: 宏重定义
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\PQPLib\PQP.cpp(279,20): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\PQPLib\PQP.cpp(281,20): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\PQPLib\PQP.cpp(906,12): warning C4189: “sz”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\PQPLib\PQP.cpp(999,38): warning C4100: “p”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\PQPLib\PQP.cpp(999,26): warning C4100: “b”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\PQPLib\PQP.cpp(999,19): warning C4100: “o”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\PQPLib\PQP.cpp(998,78): warning C4100: “T”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\PQPLib\PQP.cpp(998,60): warning C4100: “R”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\PQPLib\PQP.cpp(998,47): warning C4100: “res”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\ThirdPartyDependence\Eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(163,35): warning C4100: “bVertexNormalShading”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,63): warning C4100: “even_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,39): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.h(15,14): warning C4091: “typedef ”: 没有声明变量时忽略“mesh_type”的左侧
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKGeometry.h(493,42): warning C4267: “return”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshTetra.cpp(164,7): warning C4189: “x”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(163,35): warning C4100: “bVertexNormalShading”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,63): warning C4100: “even_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,39): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(163,35): warning C4100: “bVertexNormalShading”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,63): warning C4100: “even_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,39): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(163,35): warning C4100: “bVertexNormalShading”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,63): warning C4100: “even_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,39): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKGeometry.h(493,42): warning C4267: “return”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.h(15,14): warning C4091: “typedef ”: 没有声明变量时忽略“mesh_type”的左侧
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.h(15,14): warning C4091: “typedef ”: 没有声明变量时忽略“mesh_type”的左侧
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(163,35): warning C4100: “bVertexNormalShading”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,63): warning C4100: “even_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,39): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(163,35): warning C4100: “bVertexNormalShading”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,63): warning C4100: “even_type”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\GLKLib\GLKLib.h(214,39): warning C4100: “event”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.h(15,14): warning C4091: “typedef ”: 没有声明变量时忽略“mesh_type”的左侧
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.h(15,14): warning C4091: “typedef ”: 没有声明变量时忽略“mesh_type”的左侧
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshPatch.cpp(26,6): warning C4189: “num”: 局部变量已初始化但不引用
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshPatch.cpp(103,52): warning C4100: “bOBTFile”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshPatch.cpp(146,12): warning C4101: “nodeIndex”: 未引用的局部变量
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.h(15,14): warning C4091: “typedef ”: 没有声明变量时忽略“mesh_type”的左侧
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshPatch.cpp(657,21): warning C4101: “buf”: 未引用的局部变量
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshPatch.cpp(658,19): warning C4101: “yy”: 未引用的局部变量
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshPatch.cpp(658,15): warning C4101: “xx”: 未引用的局部变量
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshPatch.cpp(656,8): warning C4101: “fp”: 未引用的局部变量
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshPatch.cpp(658,23): warning C4101: “zz”: 未引用的局部变量
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshPatch.cpp(657,7): warning C4101: “linebuf”: 未引用的局部变量
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshPatch.cpp(1187,52): warning C4100: “bOBTFile”: 未引用的形参
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshPatch.cpp(1590,72): warning C4474: fprintf: 格式字符串中传递的参数太多
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshPatch.cpp(1821,17): warning C4101: “Pos”: 未引用的局部变量
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\QMeshPatch.cpp(1843,17): warning C4101: “PosMesh”: 未引用的局部变量
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(130,55): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(148,41): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(148,36): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(148,31): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(96,17): warning C4101: “PosNode”: 未引用的局部变量
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(244,18): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(244,28): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(244,38): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(313,22): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(313,32): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(316,22): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(316,32): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(319,22): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(319,32): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(344,47): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(356,47): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(356,57): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(360,26): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(363,36): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(366,46): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(369,36): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(369,46): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(372,36): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(375,46): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(485,36): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(488,46): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(491,36): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(491,46): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(494,26): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(494,36): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(497,26): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(497,46): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(500,26): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(500,36): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(500,46): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(504,26): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(504,36): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(507,26): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(507,46): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(519,32): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(522,42): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(525,32): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(525,42): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(528,22): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(528,32): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(531,22): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(531,42): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(590,29): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(590,24): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(590,19): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(728,22): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(728,32): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(728,42): warning C4305: “=”: 从“double”到“float”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(1166,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(1166,20): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\PolygenMesh.cpp(1166,15): warning C4305: “参数”: 从“double”到“GLfloat”截断
+  QMeshLib.vcxproj -> D:\File\CUHK\LAB\TTA\TTA\multi-axis-silicone-volumetric-printing-main\multi-axis-silicone-volumetric-printing-main\QMeshLib\debug\QMeshLib.lib

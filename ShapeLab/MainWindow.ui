@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="windowModality">
+   <enum>Qt::ApplicationModal</enum>
+  </property>
+  <property name="enabled">
+   <bool>true</bool>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1325</width>
+    <height>908</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>0</width>
+    <height>600</height>
+   </size>
+  </property>
+  <property name="font">
+   <font>
+    <weight>75</weight>
+    <bold>true</bold>
+   </font>
+  </property>
+  <property name="mouseTracking">
+   <bool>true</bool>
+  </property>
+  <property name="focusPolicy">
+   <enum>Qt::StrongFocus</enum>
+  </property>
+  <property name="acceptDrops">
+   <bool>true</bool>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <property name="mouseTracking">
+    <bool>true</bool>
+   </property>
+   <property name="acceptDrops">
+    <bool>true</bool>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout"/>
+  </widget>
+  <widget class="QToolBar" name="navigationToolBar">
+   <property name="windowTitle">
+    <string>navigationToolBar</string>
+   </property>
+   <property name="movable">
+    <bool>false</bool>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>25</width>
+     <height>25</height>
+    </size>
+   </property>
+   <property name="floatable">
+    <bool>false</bool>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionFront"/>
+   <addaction name="actionBack"/>
+   <addaction name="actionTop"/>
+   <addaction name="actionBottom"/>
+   <addaction name="actionLeft"/>
+   <addaction name="actionRight"/>
+   <addaction name="actionIsometric"/>
+   <addaction name="separator"/>
+   <addaction name="actionZoom_In"/>
+   <addaction name="actionZoom_Out"/>
+   <addaction name="actionZoom_All"/>
+   <addaction name="actionZoom_Window"/>
+   <addaction name="separator"/>
+   <addaction name="actionShade"/>
+   <addaction name="actionMesh"/>
+   <addaction name="actionNode"/>
+   <addaction name="actionProfile"/>
+   <addaction name="actionFaceNormal"/>
+   <addaction name="actionNodeNormal"/>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <widget class="QToolBar" name="selectionToolBar">
+   <property name="windowTitle">
+    <string>selectionToolBar</string>
+   </property>
+   <property name="movable">
+    <bool>false</bool>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>25</width>
+     <height>25</height>
+    </size>
+   </property>
+   <property name="floatable">
+    <bool>false</bool>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionSaveSelection"/>
+   <addaction name="actionReadSelection"/>
+   <addaction name="separator"/>
+   <addaction name="actionSelectNode"/>
+   <addaction name="actionSelectEdge"/>
+   <addaction name="actionSelectFace"/>
+   <addaction name="actionSelectFix"/>
+   <addaction name="actionSelectHandle"/>
+  </widget>
+  <widget class="QDockWidget" name="dockWidget">
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Minimum" vsizetype="Maximum">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>517</width>
+     <height>660</height>
+    </size>
+   </property>
+   <attribute name="dockWidgetArea">
+    <number>2</number>
+   </attribute>
+   <widget class="QWidget" name="dockWidgetContents">
+    <property name="layoutDirection">
+     <enum>Qt::LeftToRight</enum>
+    </property>
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <widget class="QLabel" name="handlebutton">
+       <property name="text">
+        <string>handleindex</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QSpinBox" name="Handleindexinput">
+       <property name="maximum">
+        <number>1000</number>
+       </property>
+       <property name="value">
+        <number>0</number>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QCheckBox" name="boxDeselect">
+       <property name="text">
+        <string>boxDeselect</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QCheckBox" name="Distanceselect">
+       <property name="text">
+        <string>distance</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QCheckBox" name="ShowNoextrusionnode">
+       <property name="text">
+        <string>ShowNoextrusionnode</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <layout class="QGridLayout" name="gridLayout">
+       <property name="leftMargin">
+        <number>4</number>
+       </property>
+       <property name="topMargin">
+        <number>4</number>
+       </property>
+       <property name="rightMargin">
+        <number>4</number>
+       </property>
+       <property name="bottomMargin">
+        <number>4</number>
+       </property>
+       <item row="0" column="1">
+        <widget class="QCheckBox" name="XNeg">
+         <property name="text">
+          <string>X-</string>
+         </property>
+        </widget>
+       </item>
+       <item row="2" column="1">
+        <widget class="QCheckBox" name="ZNEG">
+         <property name="text">
+          <string>Z-</string>
+         </property>
+        </widget>
+       </item>
+       <item row="2" column="0">
+        <widget class="QCheckBox" name="ZPOS">
+         <property name="text">
+          <string>Z+</string>
+         </property>
+        </widget>
+       </item>
+       <item row="0" column="0">
+        <widget class="QCheckBox" name="XPos">
+         <property name="text">
+          <string>X+</string>
+         </property>
+        </widget>
+       </item>
+       <item row="1" column="1">
+        <widget class="QCheckBox" name="YNeg">
+         <property name="text">
+          <string>Y-</string>
+         </property>
+        </widget>
+       </item>
+       <item row="1" column="0">
+        <widget class="QCheckBox" name="YPos">
+         <property name="text">
+          <string>Y+</string>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <widget class="QPushButton" name="ReadModeladnInfor">
+       <property name="text">
+        <string>Read Model and selection</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout_2"/>
+     </item>
+     <item>
+      <widget class="QPushButton" name="ComputeISOSurf">
+       <property name="text">
+        <string>Generate ISO_Surface</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout_4">
+       <item>
+        <widget class="QPushButton" name="Output_ISO_Surface">
+         <property name="text">
+          <string>Output ISO_Surface</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QPushButton" name="ReadISOlayerandLheight">
+         <property name="text">
+          <string>ReadISOlayerandLheight</string>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <widget class="QPushButton" name="DeformationToopath">
+       <property name="text">
+        <string>Deformation Toolpath</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout_5">
+       <item>
+        <widget class="QSpinBox" name="startindex">
+         <property name="maximum">
+          <number>1000</number>
+         </property>
+         <property name="value">
+          <number>0</number>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QLabel" name="label_8">
+         <property name="text">
+          <string>startindex</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QSpinBox" name="IsoLayerIndex">
+         <property name="maximum">
+          <number>1000</number>
+         </property>
+         <property name="value">
+          <number>99</number>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QLabel" name="label_7">
+         <property name="text">
+          <string>IsoLayer</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QCheckBox" name="VisualSingleLayerButtom">
+         <property name="text">
+          <string>SingleLayer</string>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <widget class="Line" name="line_4">
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout_6"/>
+     </item>
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout_7"/>
+     </item>
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout_3"/>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButton_clearAll">
+       <property name="text">
+        <string>Clear All</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QTreeView" name="treeView">
+       <property name="enabled">
+        <bool>true</bool>
+       </property>
+       <property name="showDropIndicator" stdset="0">
+        <bool>true</bool>
+       </property>
+       <property name="indentation">
+        <number>5</number>
+       </property>
+       <attribute name="headerVisible">
+        <bool>false</bool>
+       </attribute>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1325</width>
+     <height>17</height>
+    </rect>
+   </property>
+   <property name="layoutDirection">
+    <enum>Qt::LeftToRight</enum>
+   </property>
+   <widget class="QMenu" name="menuFile">
+    <property name="title">
+     <string>File</string>
+    </property>
+    <addaction name="actionOpen"/>
+    <addaction name="actionSave"/>
+    <addaction name="actionSaveSelection"/>
+    <addaction name="actionReadSelection"/>
+   </widget>
+   <widget class="QMenu" name="menuView">
+    <property name="title">
+     <string>View</string>
+    </property>
+    <addaction name="actionFront"/>
+    <addaction name="actionBack"/>
+    <addaction name="actionTop"/>
+    <addaction name="actionBottom"/>
+    <addaction name="actionLeft"/>
+    <addaction name="actionRight"/>
+    <addaction name="actionIsometric"/>
+    <addaction name="separator"/>
+    <addaction name="actionZoom_In"/>
+    <addaction name="actionZoom_Out"/>
+    <addaction name="actionZoom_All"/>
+    <addaction name="actionZoom_Window"/>
+    <addaction name="separator"/>
+    <addaction name="actionShade"/>
+    <addaction name="actionMesh"/>
+    <addaction name="actionNode"/>
+    <addaction name="actionProfile"/>
+    <addaction name="separator"/>
+    <addaction name="actionShifttoOrigin"/>
+   </widget>
+   <widget class="QMenu" name="menuSelect">
+    <property name="title">
+     <string>Select</string>
+    </property>
+    <addaction name="actionSelectNode"/>
+    <addaction name="actionSelectEdge"/>
+    <addaction name="actionSelectFace"/>
+    <addaction name="separator"/>
+    <addaction name="actionSelectFix"/>
+    <addaction name="actionSelectHandle"/>
+    <addaction name="separator"/>
+   </widget>
+   <addaction name="menuFile"/>
+   <addaction name="menuView"/>
+   <addaction name="menuSelect"/>
+  </widget>
+  <widget class="QToolBar" name="toolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <property name="movable">
+    <bool>false</bool>
+   </property>
+   <property name="floatable">
+    <bool>false</bool>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionOpen"/>
+   <addaction name="actionSave"/>
+  </widget>
+  <action name="actionOpen">
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/Open Folder.png</normaloff>:/resource/Open Folder.png</iconset>
+   </property>
+   <property name="text">
+    <string>Open</string>
+   </property>
+  </action>
+  <action name="actionFront">
+   <property name="checkable">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/Front View.png</normaloff>:/resource/Front View.png</iconset>
+   </property>
+   <property name="text">
+    <string>Front</string>
+   </property>
+  </action>
+  <action name="actionBack">
+   <property name="checkable">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/Back View.png</normaloff>:/resource/Back View.png</iconset>
+   </property>
+   <property name="text">
+    <string>Back</string>
+   </property>
+  </action>
+  <action name="actionTop">
+   <property name="checkable">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/Top View.png</normaloff>:/resource/Top View.png</iconset>
+   </property>
+   <property name="text">
+    <string>Top</string>
+   </property>
+  </action>
+  <action name="actionBottom">
+   <property name="checkable">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/Bottom View.png</normaloff>:/resource/Bottom View.png</iconset>
+   </property>
+   <property name="text">
+    <string>Bottom</string>
+   </property>
+  </action>
+  <action name="actionLeft">
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/Left View.png</normaloff>:/resource/Left View.png</iconset>
+   </property>
+   <property name="text">
+    <string>Left</string>
+   </property>
+  </action>
+  <action name="actionRight">
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/Right View.png</normaloff>:/resource/Right View.png</iconset>
+   </property>
+   <property name="text">
+    <string>Right</string>
+   </property>
+  </action>
+  <action name="actionIsometric">
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/Isometric View.png</normaloff>:/resource/Isometric View.png</iconset>
+   </property>
+   <property name="text">
+    <string>Isometric</string>
+   </property>
+  </action>
+  <action name="actionZoom_In">
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/Zoom In.png</normaloff>:/resource/Zoom In.png</iconset>
+   </property>
+   <property name="text">
+    <string>Zoom In</string>
+   </property>
+  </action>
+  <action name="actionZoom_Out">
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/Zoom Out.png</normaloff>:/resource/Zoom Out.png</iconset>
+   </property>
+   <property name="text">
+    <string>Zoom Out</string>
+   </property>
+  </action>
+  <action name="actionZoom_All">
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/Zoom All.png</normaloff>:/resource/Zoom All.png</iconset>
+   </property>
+   <property name="text">
+    <string>Zoom All</string>
+   </property>
+  </action>
+  <action name="actionZoom_Window">
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/Zoom Window.png</normaloff>:/resource/Zoom Window.png</iconset>
+   </property>
+   <property name="text">
+    <string>Zoom Window</string>
+   </property>
+  </action>
+  <action name="actionShade">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/Shade.png</normaloff>:/resource/Shade.png</iconset>
+   </property>
+   <property name="text">
+    <string>Shade</string>
+   </property>
+  </action>
+  <action name="actionMesh">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/Mesh.png</normaloff>:/resource/Mesh.png</iconset>
+   </property>
+   <property name="text">
+    <string>Mesh</string>
+   </property>
+  </action>
+  <action name="actionNode">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/Node.png</normaloff>:/resource/Node.png</iconset>
+   </property>
+   <property name="text">
+    <string>Node</string>
+   </property>
+  </action>
+  <action name="actionSave">
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/Save as.png</normaloff>:/resource/Save as.png</iconset>
+   </property>
+   <property name="text">
+    <string>Save</string>
+   </property>
+  </action>
+  <action name="actionSelectNode">
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/selectNode.png</normaloff>:/resource/selectNode.png</iconset>
+   </property>
+   <property name="text">
+    <string>Node</string>
+   </property>
+  </action>
+  <action name="actionSelectFace">
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/selectFace.png</normaloff>:/resource/selectFace.png</iconset>
+   </property>
+   <property name="text">
+    <string>Face</string>
+   </property>
+  </action>
+  <action name="actionShifttoOrigin">
+   <property name="text">
+    <string>Shift to Origin</string>
+   </property>
+  </action>
+  <action name="actionProfile">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/Profile.png</normaloff>:/resource/Profile.png</iconset>
+   </property>
+   <property name="text">
+    <string>Profile</string>
+   </property>
+  </action>
+  <action name="actionFaceNormal">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/FaceNormal.png</normaloff>:/resource/FaceNormal.png</iconset>
+   </property>
+   <property name="text">
+    <string>FaceNormal</string>
+   </property>
+  </action>
+  <action name="actionNodeNormal">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/NodeNormal.png</normaloff>:/resource/NodeNormal.png</iconset>
+   </property>
+   <property name="text">
+    <string>NodeNormal</string>
+   </property>
+  </action>
+  <action name="actionSelectEdge">
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/selectEdge.png</normaloff>:/resource/selectEdge.png</iconset>
+   </property>
+   <property name="text">
+    <string>Edge</string>
+   </property>
+  </action>
+  <action name="actionGenerate">
+   <property name="text">
+    <string>Generate</string>
+   </property>
+  </action>
+  <action name="actionTest_1">
+   <property name="text">
+    <string>Test_1</string>
+   </property>
+  </action>
+  <action name="actionSelectFix">
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/selectFix.png</normaloff>:/resource/selectFix.png</iconset>
+   </property>
+   <property name="text">
+    <string>Fix</string>
+   </property>
+  </action>
+  <action name="actionSelectHandle">
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/selectHandle.png</normaloff>:/resource/selectHandle.png</iconset>
+   </property>
+   <property name="text">
+    <string>Handle &amp; Rigid</string>
+   </property>
+  </action>
+  <action name="actionSaveSelection">
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/SaveSelection.png</normaloff>:/resource/SaveSelection.png</iconset>
+   </property>
+   <property name="text">
+    <string>Save selection</string>
+   </property>
+  </action>
+  <action name="actionReadSelection">
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/InputSelection.png</normaloff>:/resource/InputSelection.png</iconset>
+   </property>
+   <property name="text">
+    <string>Read selection</string>
+   </property>
+  </action>
+  <action name="actionSelectChamber">
+   <property name="text">
+    <string>Select Chamber (SORO)</string>
+   </property>
+  </action>
+  <action name="actionExport_to_Abaqus_model">
+   <property name="checkable">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="ShapeLab.qrc">
+     <normaloff>:/resource/abaqus logo.png</normaloff>:/resource/abaqus logo.png</iconset>
+   </property>
+   <property name="text">
+    <string>Export to Abaqus model</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="ShapeLab.qrc"/>
+ </resources>
+ <connections/>
+</ui>
